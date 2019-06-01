@@ -3,7 +3,7 @@ This site provides a collection of scripts to edit PDF files which are used as f
 
 ## Scripts and/or programs
 
-1. [Pdf Edit Bash](/PdfEditBash) A set of Bash shell scripts to create the data sets needed for a given form, and use that data to edit the PDF form.
+1. [Pdf Edit Bash](https://github.com/cli-pdf-editors/PdfEditBash/) A set of Bash shell scripts to create the data sets needed for a given form, and use that data to edit the PDF form.
 2. Pdf Edit Ruby - this is planned for the future. The purpose is to make the use of this system possibly easier for Windows users than installing Bash on their computers.
 
 ## Premade forms
