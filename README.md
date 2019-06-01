@@ -8,7 +8,7 @@ This site provides a collection of scripts to edit PDF files which are used as f
 
 ## Premade forms
 
-1. [TM7](/TM7) The form used to apply for an extension of stay in the Kingdom of Thailand.
+1. [TM7](https://github.com/cli-pdf-editors/TM7/) The form used to apply for an extension of stay in the Kingdom of Thailand.
 
 ## Limitations
 
